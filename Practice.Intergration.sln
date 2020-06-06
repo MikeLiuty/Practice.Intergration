@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.Intergration.SUT", "Practice.Intergration.SUT\Practice.Intergration.SUT.csproj", "{3021398A-5EF7-4094-9E4A-8610927780E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intergration.test", "Intergration.test\Intergration.test.csproj", "{00BA90A9-0CF3-4E82-AFF5-71171D5531AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3021398A-5EF7-4094-9E4A-8610927780E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3021398A-5EF7-4094-9E4A-8610927780E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3021398A-5EF7-4094-9E4A-8610927780E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3021398A-5EF7-4094-9E4A-8610927780E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00BA90A9-0CF3-4E82-AFF5-71171D5531AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00BA90A9-0CF3-4E82-AFF5-71171D5531AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00BA90A9-0CF3-4E82-AFF5-71171D5531AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00BA90A9-0CF3-4E82-AFF5-71171D5531AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741F4ABF-EA10-44A5-AA40-644BF923F7FF}
+	EndGlobalSection
+EndGlobal
