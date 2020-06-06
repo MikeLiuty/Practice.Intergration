@@ -20,6 +20,11 @@ namespace IntergrationTest
         
         [Theory]
         [InlineData("/")]
+        [InlineData("/Home")]
+        [InlineData("/Home/About")]
+        [InlineData("/Home/Contact")]
+        [InlineData("/Home/Index")]
+        [InlineData("/Home/Privacy")]
 
         public async Task GetHttpRequest(string url)
         {
